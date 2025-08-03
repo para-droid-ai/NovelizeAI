@@ -1,0 +1,6 @@
+{
+  "name": "Novelize AI",
+  "description": "An application to assist users in creating novels with AI-driven planning, writing, and review cycles. Users input their initial idea and select modifiers, and Novelize AI guides them through chapter-by-chapter creation using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
