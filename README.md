@@ -16,10 +16,10 @@ The vision is not to replace the human author, but to provide a powerful co-crea
 
 ## 1.5 Final Outputs and State Creation Files (shared)
 Examples of complete novels from this app, and outputs from the original harness created via Wordware [here.](https://github.com/para-droid-ai/novella-xl-15/tree/main/outputs)
-- [Ready Player 2: The Architect's Gambit](https://github.com/para-droid-ai/novella-xl-15/blob/main/outputs/Ready%20Player%202%3A%20The%20Architect's%20Gambit.md) (40 Chapters, 186,237 words, 11 hours reading time, 17 hours speaking time)
-- [The Apotheosis Protocol](https://github.com/para-droid-ai/novella-xl-15/blob/main/outputs/The_Apotheosis_Protocol.md) (22 Chapters, 69,000 words, 4 hours reading time, 7 hours speaking time)
+- [Ready Player 2: The Architect's Gambit](https://github.com/para-droid-ai/novella-xl-15/blob/main/outputs/novelizeai/Ready%20Player%202%3A%20The%20Architect's%20Gambit.md) (40 Chapters, 186,237 words, 11 hours reading time, 17 hours speaking time)
+- [The Apotheosis Protocol](https://github.com/para-droid-ai/novella-xl-15/blob/main/outputs/novelizeai/The_Apotheosis_Protocol.md) (22 Chapters, 69,000 words, 4 hours reading time, 7 hours speaking time)
    - [Audiobook Available on ElevenLabsReader](https://elevenreader.io/audiobooks/the-apotheosis-protocol/zLKozjmjBBv7U3k4hCtY) 
-- [The Revivalist](https://github.com/para-droid-ai/novella-xl-15/blob/main/outputs/The_Revivalist.md) (20 Chapter, 80,000 words, 5 hours reading time, 8 hours speaking time)
+- [The Revivalist](https://github.com/para-droid-ai/novella-xl-15/blob/main/outputs/novelizeai/The_Revivalist.md) (20 Chapter, 80,000 words, 5 hours reading time, 8 hours speaking time)
 
 ## 2. Inspirations
 
