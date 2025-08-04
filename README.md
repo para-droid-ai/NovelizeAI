@@ -14,6 +14,9 @@ Our core intention is to:
 
 The vision is not to replace the human author, but to provide a powerful co-creation tool that handles heavy lifting in drafting and structuring, allowing the user to focus on the creative essence, plot intricacies, and unique voice of their story.
 
+## 1.5 Final Outputs and State Creation Files (shared)
+Examples of complete novels from this app as well as the previous harness are hosted on my alternate repo [here.](https://github.com/para-droid-ai/novella-xl-15/tree/main/outputs)
+
 ## 2. Inspirations
 
 This project is inspired by:
